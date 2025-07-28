@@ -1,4 +1,4 @@
-# Daily Chaos  
+# Daily Chaos
 
 A fun and simple Flutter app that gives you one mini-challenge per day to break the monotony and spark good habits. Celebrate wins with 🎉 confetti, 🔊 sound, and smooth UI vibes.
 
